@@ -1,0 +1,180 @@
+9:01am  Random_customer_1 enters the bank.
+9:01am  Random_customer_1 steps up to counter 1.
+9:02am  Random_customer_2 enters the bank.
+9:05am  Random_customer_3 enters the bank.
+9:06am  Random_customer_4 enters the bank.
+9:17am  Random_customer_1 leaves the counter 1.
+9:18am  Random_customer_2 steps up to the counter 1.
+9:21am  Random_customer_5 enters the bank.
+9:34am  Random_customer_2 leaves the counter 1.
+9:35am  Random_customer_3 steps up to the counter 1.
+9:37am  Random_customer_3 leaves the counter 1.
+9:38am  Random_customer_6 enters the bank.
+9:38am  Random_customer_4 steps up to the counter 1.
+9:44am  Random_customer_7 enters the bank.
+9:44am  Random_customer_4 leaves the counter 1.
+9:45am  Random_customer_5 steps up to the counter 1.
+9:47am  Random_customer_5 leaves the counter 1.
+9:48am  Random_customer_6 steps up to the counter 1.
+10:00am  Random_customer_6 leaves the counter 1.
+10:01am  Random_customer_7 steps up to the counter 1.
+10:04am  Random_customer_8 enters the bank.
+10:06am  Random_customer_9 enters the bank.
+10:09am  Random_customer_7 leaves the counter 1.
+10:10am  Random_customer_8 steps up to the counter 1.
+10:19am  Random_customer_8 leaves the counter 1.
+10:20am  Random_customer_9 steps up to the counter 1.
+10:26am  Random_customer_10 enters the bank.
+10:30am  Random_customer_9 leaves the counter 1.
+10:31am  Random_customer_11 enters the bank.
+10:31am  Random_customer_10 steps up to the counter 1.
+10:36am  Random_customer_12 enters the bank.
+10:43am  Random_customer_10 leaves the counter 1.
+10:44am  Random_customer_11 steps up to the counter 1.
+10:50am  Random_customer_13 enters the bank.
+10:54am  Random_customer_14 enters the bank.
+11:00am  Random_customer_11 leaves the counter 1.
+11:01am  Random_customer_15 enters the bank.
+11:01am  Random_customer_12 steps up to the counter 1.
+11:02am  Random_customer_16 enters the bank.
+11:04am  Random_customer_17 enters the bank.
+11:09am  Random_customer_12 leaves the counter 1.
+11:10am  Random_customer_13 steps up to the counter 1.
+11:23am  Random_customer_13 leaves the counter 1.
+11:24am  Random_customer_14 steps up to the counter 1.
+11:34am  Random_customer_18 enters the bank.
+11:37am  Random_customer_14 leaves the counter 1.
+11:38am  Random_customer_15 steps up to the counter 1.
+11:44am  Random_customer_15 leaves the counter 1.
+11:45am  Random_customer_16 steps up to the counter 1.
+11:58am  Random_customer_19 enters the bank.
+11:58am  Random_customer_16 leaves the counter 1.
+11:59am  Random_customer_17 steps up to the counter 1.
+12:03am  Random_customer_17 leaves the counter 1.
+12:04am  Random_customer_18 steps up to the counter 1.
+12:15am  Random_customer_18 leaves the counter 1.
+12:16am  Random_customer_19 steps up to the counter 1.
+12:19am  Random_customer_20 enters the bank.
+12:20am  Random_customer_21 enters the bank.
+12:21am  Random_customer_22 enters the bank.
+12:29am  Random_customer_23 enters the bank.
+12:31am  Random_customer_24 enters the bank.
+12:31am  Random_customer_19 leaves the counter 1.
+12:32am  Random_customer_25 enters the bank.
+12:32am  Random_customer_20 steps up to the counter 1.
+12:34am  Random_customer_26 enters the bank.
+12:43am  Random_customer_20 leaves the counter 1.
+12:44am  Random_customer_21 steps up to the counter 1.
+12:45am  Random_customer_27 enters the bank.
+12:47am  Random_customer_28 enters the bank.
+12:49am  Random_customer_29 enters the bank.
+12:57am  Random_customer_21 leaves the counter 1.
+12:58am  Random_customer_22 steps up to the counter 1.
+1:02pm  Random_customer_22 leaves the counter 1.
+1:03pm  Random_customer_23 steps up to the counter 1.
+1:06pm  Random_customer_23 leaves the counter 1.
+1:07pm  Random_customer_24 steps up to the counter 1.
+1:09pm  Random_customer_30 enters the bank.
+1:11pm  Random_customer_24 leaves the counter 1.
+1:12pm  Random_customer_25 steps up to the counter 1.
+1:21pm  Random_customer_31 enters the bank.
+1:27pm  Random_customer_32 enters the bank.
+1:27pm  Random_customer_25 leaves the counter 1.
+1:28pm  Random_customer_26 steps up to the counter 1.
+1:32pm  Random_customer_33 enters the bank.
+1:32pm  Random_customer_26 leaves the counter 1.
+1:33pm  Random_customer_27 steps up to the counter 1.
+1:50pm  Random_customer_34 enters the bank.
+1:50pm  Random_customer_27 leaves the counter 1.
+1:51pm  Random_customer_28 steps up to the counter 1.
+1:59pm  Random_customer_28 leaves the counter 1.
+2:00pm  Random_customer_29 steps up to the counter 1.
+2:08pm  Random_customer_35 enters the bank.
+2:13pm  Random_customer_29 leaves the counter 1.
+2:14pm  Random_customer_30 steps up to the counter 1.
+2:24pm  Random_customer_30 leaves the counter 1.
+2:25pm  Random_customer_31 steps up to the counter 1.
+2:28pm  Random_customer_31 leaves the counter 1.
+2:29pm  Random_customer_32 steps up to the counter 1.
+2:32pm  Random_customer_32 leaves the counter 1.
+2:33pm  Random_customer_33 steps up to the counter 1.
+2:37pm  Random_customer_33 leaves the counter 1.
+2:38pm  Random_customer_34 steps up to the counter 1.
+2:41pm  Random_customer_34 leaves the counter 1.
+2:42pm  Random_customer_35 steps up to the counter 1.
+2:43pm  Random_customer_36 enters the bank.
+2:45pm  Random_customer_37 enters the bank.
+2:53pm  Random_customer_35 leaves the counter 1.
+2:54pm  Random_customer_36 steps up to the counter 1.
+3:04pm  Random_customer_36 leaves the counter 1.
+3:05pm  Random_customer_37 steps up to the counter 1.
+3:07pm  Random_customer_38 enters the bank.
+3:09pm  Random_customer_39 enters the bank.
+3:10pm  Random_customer_37 leaves the counter 1.
+3:11pm  Random_customer_38 steps up to the counter 1.
+3:12pm  Random_customer_40 enters the bank.
+3:13pm  Random_customer_41 enters the bank.
+3:15pm  Random_customer_38 leaves the counter 1.
+3:16pm  Random_customer_39 steps up to the counter 1.
+3:17pm  Random_customer_42 enters the bank.
+3:25pm  Random_customer_39 leaves the counter 1.
+3:26pm  Random_customer_40 steps up to the counter 1.
+3:36pm  Random_customer_40 leaves the counter 1.
+3:37pm  Random_customer_41 steps up to the counter 1.
+3:45pm  Random_customer_41 leaves the counter 1.
+3:46pm  Random_customer_42 steps up to the counter 1.
+3:47pm  Random_customer_43 enters the bank.
+3:53pm  Random_customer_44 enters the bank.
+3:54pm  Random_customer_45 enters the bank.
+3:59pm  Random_customer_42 leaves the counter 1.
+4:00pm  Random_customer_43 steps up to the counter 1.
+4:02pm  Random_customer_43 leaves the counter 1.
+4:03pm  Random_customer_44 steps up to the counter 1.
+4:06pm  Random_customer_46 enters the bank.
+4:08pm  Random_customer_47 enters the bank.
+4:08pm  Random_customer_44 leaves the counter 1.
+4:09pm  Random_customer_45 steps up to the counter 1.
+4:15pm  Random_customer_45 leaves the counter 1.
+4:16pm  Random_customer_48 enters the bank.
+4:16pm  Random_customer_46 steps up to the counter 1.
+4:24pm  Random_customer_46 leaves the counter 1.
+4:25pm  Random_customer_49 enters the bank.
+4:25pm  Random_customer_47 steps up to the counter 1.
+4:33pm  Random_customer_50 enters the bank.
+4:42pm  Random_customer_47 leaves the counter 1.
+4:43pm  Random_customer_48 steps up to the counter 1.
+4:46pm  Random_customer_51 enters the bank.
+4:49pm  Random_customer_48 leaves the counter 1.
+4:50pm  Random_customer_49 steps up to the counter 1.
+5:06pm  Random_customer_49 leaves the counter 1.
+5:07pm  Random_customer_50 steps up to the counter 1.
+5:09pm  Random_customer_52 enters the bank.
+5:10pm  Random_customer_53 enters the bank.
+5:16pm  Random_customer_54 enters the bank.
+5:19pm  Random_customer_55 enters the bank.
+5:21pm  Random_customer_56 enters the bank.
+5:23pm  Random_customer_50 leaves the counter 1.
+5:24pm  Random_customer_51 steps up to the counter 1.
+5:39pm  Random_customer_51 leaves the counter 1.
+5:40pm  Random_customer_52 steps up to the counter 1.
+5:44pm  Random_customer_57 enters the bank.
+5:49pm  Random_customer_58 enters the bank.
+5:52pm  Random_customer_59 enters the bank.
+5:55pm  Random_customer_52 leaves the counter 1.
+5:56pm  Random_customer_53 steps up to the counter 1.
+6:03pm  Random_customer_53 leaves the counter 1.
+6:04pm  Random_customer_54 steps up to the counter 1.
+6:21pm  Random_customer_54 leaves the counter 1.
+6:22pm  Random_customer_55 steps up to the counter 1.
+6:38pm  Random_customer_55 leaves the counter 1.
+6:39pm  Random_customer_56 steps up to the counter 1.
+6:43pm  Random_customer_56 leaves the counter 1.
+6:44pm  Random_customer_57 steps up to the counter 1.
+6:59pm  Random_customer_57 leaves the counter 1.
+7:00pm  Random_customer_58 steps up to the counter 1.
+7:15pm  Random_customer_58 leaves the counter 1.
+7:16pm  Random_customer_59 steps up to the counter 1.
+7:24pm  Random_customer_59 leaves the counter 1.
+Total number of customers served: 59
+Average waiting time in line: 33.2034 minutes
+Maximum number of customers waiting in line simultaneously: 8
